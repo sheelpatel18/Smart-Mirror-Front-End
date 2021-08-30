@@ -1,0 +1,20 @@
+{
+  "name": "smart-mirror",
+  "version": "1.0.0",
+  "description": "Smart Mirror Front End and Local-Server Setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheelpatel18/Smart-Mirror.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheelpatel18/Smart-Mirror/issues"
+  },
+  "homepage": "https://github.com/sheelpatel18/Smart-Mirror#readme"
+}
