@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/app.css"],"names":[],"mappings":"AAAA,KACI,qBAAuB,CACvB,kBAAmB,CACnB,eAAgB,CAChB,UACJ","file":"main.1b704844.chunk.css","sourcesContent":[".app {\n    background-color: black;\n    font-family: roboto;\n    font-weight: 500;\n    color: white;\n}"]}
