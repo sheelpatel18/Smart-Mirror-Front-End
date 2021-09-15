@@ -4,7 +4,7 @@
   "description": "Smart Mirror Front End and Local-Server Setup",
   "main": "electron.js",
   "scripts": {
-    "server": "serve -s build",
+    "server": "serve -s dev/build",
     "electron": "electron .",
     "start": "concurrently \"npm run server\" \"npm run electron\""
   },

@@ -1,10 +1,9 @@
-require('dotenv')
 import { React, useState } from 'react'
 import useWindowDimensions from './Screen';
 const axios = require('axios')
 const { Container, Row, Col } = require('react-bootstrap')
 
-const key = process.env.OPEN_WEATHER_API_KEY
+const key = "d52f5e56687724e820cd863b4f498f66"
 const api_config = {
     method: 'get',
     url: `https://api.openweathermap.org/data/2.5/weather`,
